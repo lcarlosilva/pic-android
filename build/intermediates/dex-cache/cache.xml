@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrador\AndroidStudioProjects\treinamento-fundamentos-android\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Administrador\AndroidStudioProjects\treinamento-fundamentos-android\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-9336d90e179854c94fea361a37cff741b37541e4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrador\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\Administrador\AndroidStudioProjects\fundamentos-android-Gustavo-Gustavo\app\build\intermediates\pre-dexed\debug\library-2.4.0-21684dd20237dfd304338ba8555bf086d9448844.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrador\AndroidStudioProjects\fundamentos-android-Gustavo-Gustavo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Administrador\AndroidStudioProjects\fundamentos-android-Gustavo-Gustavo\app\build\intermediates\pre-dexed\debug\classes-7067ef410234dfa7013901aa3057118bb3601bca.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrador\AndroidStudioProjects\treinamento-fundamentos-android\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Administrador\AndroidStudioProjects\treinamento-fundamentos-android\app\build\intermediates\pre-dexed\debug\classes-0f5a2335dded8761cadb84ec1b6733ef943dc5b1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrador\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.4.0\d6a66c7a5f01cf500377bd669507a08cfeba882a\jackson-annotations-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d6a66c7a5f01cf500377bd669507a08cfeba882a">
+        <dex dex="C:\Users\Administrador\AndroidStudioProjects\fundamentos-android-Gustavo-Gustavo\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.4.0-957e51d5953566649cce450b01618dd066fe7ab7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrador\AndroidStudioProjects\treinamento-fundamentos-android\app\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8c6ebb7d087d1a30bf84356bd2aecf85309fc024">
+        <dex dex="C:\Users\Administrador\AndroidStudioProjects\treinamento-fundamentos-android\app\build\intermediates\pre-dexed\debug\classes-f9aa77a95c42a30fa8629cea9099ad282a275e07.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrador\AndroidStudioProjects\treinamento-fundamentos-android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Administrador\AndroidStudioProjects\treinamento-fundamentos-android\app\build\intermediates\pre-dexed\debug\classes-fc89987ee839c200d20f5d0d9012d66f881fd314.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrador\AndroidStudioProjects\fundamentos-android-Gustavo-Gustavo\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Administrador\AndroidStudioProjects\fundamentos-android-Gustavo-Gustavo\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-38396e71a6d51dca46614a77669a7ab440c571f9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrador\AndroidStudioProjects\fundamentos-android-Gustavo-Gustavo\app\build\intermediates\exploded-aar\com.wrapp.floatlabelededittext\library\0.0.6\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0db8e1dc3097c0db8425b339e5e720ef6e918400">
+        <dex dex="C:\Users\Administrador\AndroidStudioProjects\fundamentos-android-Gustavo-Gustavo\app\build\intermediates\pre-dexed\debug\classes-3e2ee22421976de42a67c74c6b2eda6e821331f6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrador\AndroidStudioProjects\fundamentos-android-Gustavo-Gustavo\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Administrador\AndroidStudioProjects\fundamentos-android-Gustavo-Gustavo\app\build\intermediates\pre-dexed\debug\classes-26fda31836050f55805aa39635ebd606c9350fb8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrador\AndroidStudioProjects\treinamento-fundamentos-android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="C:\Users\Administrador\AndroidStudioProjects\treinamento-fundamentos-android\app\build\intermediates\pre-dexed\debug\classes-628ee565a5205158d0a671e9cc9aa4a3ec1114ef.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrador\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.4.2\8e31266a272ad25ac4c089734d93e8d811652c1f\jackson-databind-2.4.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e31266a272ad25ac4c089734d93e8d811652c1f">
+        <dex dex="C:\Users\Administrador\AndroidStudioProjects\fundamentos-android-Gustavo-Gustavo\app\build\intermediates\pre-dexed\debug\jackson-databind-2.4.2-9d4fda3f2ed3766caaa79775f11f28d3bf605920.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrador\AndroidStudioProjects\treinamento-fundamentos-android\app\build\intermediates\exploded-aar\com.wrapp.floatlabelededittext\library\0.0.6\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0db8e1dc3097c0db8425b339e5e720ef6e918400">
+        <dex dex="C:\Users\Administrador\AndroidStudioProjects\treinamento-fundamentos-android\app\build\intermediates\pre-dexed\debug\classes-6c15f62ba4b6307f0787b626d9e9fc6afd249b12.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrador\AndroidStudioProjects\fundamentos-android-Gustavo-Gustavo\app\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8c6ebb7d087d1a30bf84356bd2aecf85309fc024">
+        <dex dex="C:\Users\Administrador\AndroidStudioProjects\fundamentos-android-Gustavo-Gustavo\app\build\intermediates\pre-dexed\debug\classes-627ad6edc4b8139d2b6363944f66d155f15d081a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrador\AndroidStudioProjects\fundamentos-android-Gustavo-Gustavo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="C:\Users\Administrador\AndroidStudioProjects\fundamentos-android-Gustavo-Gustavo\app\build\intermediates\pre-dexed\debug\classes-3136d01590d07a4fb9c6f0b493cc9b9a48042fdb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrador\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.4.2\ceb72830d95c512b4b300a38f29febc85bdf6e4b\jackson-core-2.4.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ceb72830d95c512b4b300a38f29febc85bdf6e4b">
+        <dex dex="C:\Users\Administrador\AndroidStudioProjects\fundamentos-android-Gustavo-Gustavo\app\build\intermediates\pre-dexed\debug\jackson-core-2.4.2-a7255b30af94ce6864bb6ad2da6fd62570d9d5a8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrador\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\Administrador\AndroidStudioProjects\fundamentos-android-Gustavo-Gustavo\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-98d47de06d32194688a7c4d89cc48108878df85e.jar" />
+    </item>
+
+</items>
