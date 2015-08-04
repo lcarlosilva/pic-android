@@ -1,6 +1,7 @@
 package com.example.administrador.myapplication.model.entities;
 
 public class ClientAddress {
+
     private String cep;
     private String tipoDeLogradouro;
     private String logradouro;

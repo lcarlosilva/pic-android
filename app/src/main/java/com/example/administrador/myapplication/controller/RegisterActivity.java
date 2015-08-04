@@ -29,9 +29,10 @@ public class RegisterActivity extends AppCompatActivity {
     public static String CLIENT_PARAM = "CLIENT_PARAM";
 
     private Client client;
+
     private EditText clientName;
     private EditText clientAge;
-    private EditText clientAddress;
+    private EditText clienteComplements;
     private EditText clientPhone;
     private EditText editTextCep;
     private EditText editTipoLogradouro;
@@ -59,7 +60,7 @@ public class RegisterActivity extends AppCompatActivity {
         if(client != null){
             clientName.setText(client.getName());
             clientAge.setText(client.getAge().toString());
-            clientAddress.setText(client.getAddress());
+            clienteComplements.setText(client.getAddress());
             clientPhone.setText(client.getPhone());
         }
     }
@@ -69,7 +70,7 @@ public class RegisterActivity extends AppCompatActivity {
         clientName.setCompoundDrawablesWithIntrinsicBounds(0, 0, R.mipmap.ic_edittext_client, 0);
         actionFindContactOnTouch();
         clientAge = (EditText) findViewById(R.id.clientAge);
-        clientAddress = (EditText) findViewById(R.id.complements);
+        clienteComplements = (EditText) findViewById(R.id.complements);
         clientPhone = (EditText) findViewById(R.id.clientPhone);
         editTextCep = (EditText) findViewById(R.id.clientCep);
         editTextCep.setCompoundDrawablesWithIntrinsicBounds(0, 0, R.drawable.ic_action_action_search, 0);
@@ -189,17 +190,17 @@ public class RegisterActivity extends AppCompatActivity {
     }
 
     private boolean saveClient() {
-        if(FormHelper.requireValidate(RegisterActivity.this, clientName, clientAge, clientAddress, clientPhone)){
+        if(FormHelper.requireValidate(RegisterActivity.this, clientName, clientAge, clienteComplements, clientPhone)){
             if(client == null) {
                 client = new Client();
                 client.setName(clientName.getText().toString());
                 client.setAge(Integer.parseInt(clientAge.getText().toString()));
-                client.setAddress(clientAddress.getText().toString());
+                client.setAddress(clienteComplements.getText().toString());
                 client.setPhone(clientPhone.getText().toString());
             } else{
                 client.setName(clientName.getText().toString());
                 client.setAge(Integer.parseInt(clientAge.getText().toString()));
-                client.setAddress(clientAddress.getText().toString());
+                client.setAddress(clienteComplements.getText().toString());
                 client.setPhone(clientPhone.getText().toString());
             }
             client.save();
